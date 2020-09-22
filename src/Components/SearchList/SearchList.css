@@ -1,0 +1,18 @@
+.leftcolumn {
+    float : left;
+    width: 25%;
+    padding-left: -80px;
+    margin-top: 50px;
+}
+
+.card {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+
+
+.container{
+    width: 1200px;
+}

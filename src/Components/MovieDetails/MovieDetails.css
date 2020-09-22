@@ -1,0 +1,12 @@
+.right {
+    float: left;
+    width: 75%;
+    margin-top: 50px;
+    padding-left: 49px;
+}
+.card {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
